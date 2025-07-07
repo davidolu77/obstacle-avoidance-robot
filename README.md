@@ -83,6 +83,7 @@ You can customize:
 ```cpp
 byte motorSpeed = 120;    // Adjust speed (0–255)
 byte stopDist = 50;       // Distance in cm to stop before an obstacle
+```
 
 ---
 
