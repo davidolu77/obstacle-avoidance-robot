@@ -29,8 +29,8 @@ This project is perfect for beginners learning about robotics, Arduino programmi
 | HC-SR04 Ultrasonic Sensor    | 1        | Distance sensing                    |
 | 18650 Battery (3.7V)         | 2        | Total ~7.4V                         |
 | 18650 Battery Holder         | 1        | Powers the shield via EXT_PWR       |
-| Breadboard                   | 1        | For clean 5V & GND wiring            |
-| Jumper Wires                 | 15+      | Male-to-male, female-to-male        |
+| Mini Breadboard                   | 1        | For clean 5V & GND wiring            |
+| Jumper Wires                 | 6        | Male-to-male, female-to-male        |
 | Cardboard Base               | 1        | For chassis                         |
 | Glue Gun / Tape              | As needed| To fix parts in place               |
 
