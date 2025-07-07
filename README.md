@@ -84,3 +84,16 @@ You can customize:
 byte motorSpeed = 120;    // Adjust speed (0–255)
 byte stopDist = 50;       // Distance in cm to stop before an obstacle
 
+---
+
+## 🧠 Credits
+
+Built by [David Olutunde]([https://davidolutunde.com])  
+Inspired by code from [Michael Klements – The DIY Life](https://www.the-diy-life.com)
+
+---
+
+## 📝 License
+
+This project is open-source under the [MIT License](https://opensource.org/licenses/MIT).  
+Feel free to use, remix, and share it in personal or educational projects!
