@@ -89,7 +89,7 @@ byte stopDist = 50;       // Distance in cm to stop before an obstacle
 
 ## 🧠 Credits
 
-Built by [David Olutunde]([https://davidolutunde.com])  
+Built by [David Olutunde](https://davidolutunde.com)  
 Inspired by code from [Michael Klements – The DIY Life](https://www.the-diy-life.com)
 
 ---
