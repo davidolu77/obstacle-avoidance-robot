@@ -4,7 +4,7 @@ This is a DIY autonomous robot that detects and avoids obstacles using an ultras
 
 This project is perfect for beginners learning about robotics, Arduino programming, and sensor-based automation.
 
-![robot](final_robot.jpg)
+![robot](IMG_0327.jpg)
 
 ---
 
